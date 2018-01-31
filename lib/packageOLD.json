@@ -1,0 +1,22 @@
+{
+  "name": "Ted Pennington Personal Site",
+  "version": "1.0",
+  "homepage": "https://tedpennington.github.io",
+  "author": "Ted Pennington",
+  "license": {
+    "type": "MIT",
+    "url": "https://tedpennington.github.io/"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.13.0",
+    "font-awesome": "^4.6.3",
+    "jquery": "^1.11.3",
+    "magnific-popup": "^1.1.0",
+    "scrollreveal": "^3.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tedpennington/tedpennington.github.io"
+  }
+}

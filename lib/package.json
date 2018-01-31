@@ -1,0 +1,27 @@
+{
+  "name": "ted-pennington-personal-site",
+  "version": "1.0.0",
+  "description": "Ted Pennington Personal Site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedpennington/tedpennington.github.io.git"
+  },
+  "author": "Ted Pennington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedpennington/tedpennington.github.io/issues"
+  },
+  "homepage": "https://github.com/tedpennington/tedpennington.github.io#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.13.0",
+    "font-awesome": "^4.6.3",
+    "jquery": "^1.11.3",
+    "magnific-popup": "^1.1.0",
+    "scrollreveal": "^3.1.4"
+  }
+}
